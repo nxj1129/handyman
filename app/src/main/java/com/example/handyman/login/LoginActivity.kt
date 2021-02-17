@@ -1,9 +1,10 @@
-package com.example.handyman
+package com.example.handyman.login
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
+import com.example.handyman.R
 import com.example.handyman.R.id.btnRegLogin
 
 class LoginActivity : AppCompatActivity() {
