@@ -85,17 +85,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="6dp"
                 android:paddingStart="6dp"
-                android:paddingEnd="6dp">
-
-                <com.google.android.material.textfield.TextInputEditText
-                    android:id="@+id/nameReg_tf"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:drawableStart="@drawable/ic_baseline_person_24"
-                    android:drawablePadding="6dp"
-                    android:hint="@string/name"
-                    android:inputType="text" />
-            </com.google.android.material.textfield.TextInputLayout>
+                android:paddingEnd="6dp"/>
 
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
